@@ -1,0 +1,98 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+form {padding: 15px; border: 3px solid #f1f1f1; border-radius: 4px;}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+  transition-duration: 0.5s;
+}
+
+button:hover {
+    background-color: #108f60;
+}
+
+.container {
+  padding: 16px;
+  width: 50%;
+  margin: 0 auto;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+.copyright {
+    text-align: center;
+}
+
+table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+.judul {
+  text-align: center;
+  font-size: 20px;
+  padding: 15px;
+  background-color: #ddd;
+  margin-bottom: 8px;
+  border-radius: 4px;
+  transition-duration: 0.5s;
+
+}
+.judul:hover {
+  background-color: #04AA6D;
+  color: #fff;
+}
+
+.suprise {
+  text-decoration: none;
+  background-color: #ddd;
+  color: #000;
+  padding: 5px;
+  border-radius: 10px;
+  transition-duration: 0.5s;
+}
+.suprise:hover {
+  background-color: #04AA6D;
+  color: #fff;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 100%;
+  }
+}
