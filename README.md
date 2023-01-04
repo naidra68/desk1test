@@ -19,7 +19,7 @@ di enkripsi menggunakan algoritm dari DES. Untuk Preview dari Project nya bisa d
 <img src="https://i.imgur.com/ftxH6RX.png" width="50%">
 
 Persyaratan yang diperlukan untuk menjalankan project DESK1TEST
-- <img src="https://i.imgur.com/C7WQ0wt.pngXAMPP" width="1.5%"> ( <a href="https://www.apachefriends.org/download.html">Download<a/> )
+- <img src="https://i.imgur.com/C7WQ0wt.pngXAMPP" width="1.5%"> XAMPP ( <a href="https://www.apachefriends.org/download.html">Download<a/> )
 - <img src="https://i.imgur.com/AnZaG8D.gif" width="1.5%"> Visual Studio Code ( <a href="https://code.visualstudio.com">Download<a/> )
 - <img src="https://i.imgur.com/llrYYcX.gif" width="1.5%"> Browser ( Bisa gunakan : Google Chrome, Firefox, Edge, Opera, etc)
 
