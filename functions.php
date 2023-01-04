@@ -20,7 +20,6 @@ if (isset($_POST["submit"])) :
 // Fungsi mengubah plaintext dan kunci nya menjadi bilangan biner
 function tobinary($text){
 	$pisah = str_split($text, 1); //str split untuk memecah text nya menjadi beberapa bagian, disini paramater saya tulis 1 untuk memecah menjadi 1 per 1
-	$arrplain = array(); 
 	for($i=0;$i<8;$i++){ // lakukan for untuk mencetak array 8 bagian
 		$arrtext[$i] = decbin(ord($pisah[$i])); // setiap arraytext $i index akan diubah ke biner
 		$arrtext[$i] = str_pad($arrtext[$i], 8, 0, STR_PAD_LEFT); // pengubahan dimulai dari index 0 dan 8 bagian serta dikerjakan dari kiri
