@@ -19,12 +19,12 @@ di enkripsi menggunakan algoritm dari DES. Untuk Preview dari Project nya bisa d
 <img src="https://i.imgur.com/ftxH6RX.png" width="50%">
 
 Persyaratan yang diperlukan untuk menjalankan project DESK1TEST
-- XAMPP ( <a href="https://www.apachefriends.org/download.html">Download<a/> )
-- Visual Studio Code ( <a href="https://code.visualstudio.com">Download<a/> )
-- Browser ( Bisa gunakan : Google Chrome, Firefox, Edge, Opera, etc)
+- <img src="https://i.imgur.com/C7WQ0wt.pngXAMPP" width="1.5%"> ( <a href="https://www.apachefriends.org/download.html">Download<a/> )
+- <img src="https://i.imgur.com/AnZaG8D.gif" width="1.5%"> Visual Studio Code ( <a href="https://code.visualstudio.com">Download<a/> )
+- <img src="https://i.imgur.com/llrYYcX.gif" width="1.5%"> Browser ( Bisa gunakan : Google Chrome, Firefox, Edge, Opera, etc)
 
 Bahasa Pemrograman yang digunakan untuk project DESK1TEST
-- PHP
+- <img src="https://i.imgur.com/aNfLWag.gif" width="1.5%"> PHP
 
 Terima kasih sudah berkunjung 😀, silahkan buat temen-temen untuk menggunakan project ini untuk tugas Sekolah/Kuliah/TA
 mohon untuk tidak menghilangkan copyright nya ya temen-temen. Terima Kasih. Kita ketemu lagi diproject selanjutnya 😉
