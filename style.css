@@ -85,14 +85,3 @@ tr:nth-child(even){background-color: #f2f2f2}
   background-color: #04AA6D;
   color: #fff;
 }
-
-/* Change styles for span and cancel button on extra small screens */
-@media screen and (max-width: 300px) {
-  span.psw {
-     display: block;
-     float: none;
-  }
-  .cancelbtn {
-     width: 100%;
-  }
-}
