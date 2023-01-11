@@ -19,7 +19,7 @@
 <?php include 'functions.php'; ?>
 <div class="copyright">
 	<hr>
-	&#169; 2023. Create &amp; Develope with &hearts; by Kelompok 1 Keamanan Sistem | punya kritik dan saran? 
+	&#169; <script>document.write(new Date().getFullYear())</script>. Create &amp; Develope with &hearts; by Kelompok 1 Keamanan Sistem | punya kritik dan saran? 
 	<a class="suprise" target="_blank" href="https://api.whatsapp.com/send?phone=6285334493751&text=Hallo%2C+saya+mau+membahas+mengenai+project+anda+tentang+Data+Encryption+Standard
 ">Contact Me</a>
 	<hr>
